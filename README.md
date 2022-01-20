@@ -106,8 +106,11 @@ Later applying Pca on this project
 Model Development
 
  Logistic regression
+ 
  Decision Tree Classifier
+ 
  Random forest
+ 
  Xgboost
  
  
